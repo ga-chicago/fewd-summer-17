@@ -1,0 +1,8 @@
+{
+  structure: {
+  readme: "README.md"
+},
+  plugins: [
+    "toggle-chapters"
+  ]
+}
