@@ -1,0 +1,8 @@
+* [Introduction & Syllabus](README.md)
+  * [Welcome](0_onboarding/welcome.md)
+  * [Student Holidays](0_onboarding/holidays.md)
+  * [Homework Submission](0_onboarding/homework_submission.md)
+  * [Class Library](0_onboarding/class_library.md)
+  * [Required Software](0_onboarding/required_software.md)
+  * [Course Outline](0_onboarding/course_outline.md)
+  * [All Videos/Source Code](0_onboarding/videos.md)
