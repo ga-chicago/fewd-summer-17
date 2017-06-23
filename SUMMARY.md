@@ -3,3 +3,6 @@
   * [HTML and CSS](week1/d04-htmlcss.md)
   * [The DOM](week1/d04-dom.md)
   * [Converting Pixels to EM](week1/d04-em-to-px.md)
+  * [Creating HTML & CSS Boilerlate](week1/boilerplate.md)
+  * [Boilerplate Example](week1/boilerplate-code.md)
+  * [Weekend Homework: Resume](week1/hw.md)
