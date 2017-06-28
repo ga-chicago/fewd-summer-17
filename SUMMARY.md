@@ -6,3 +6,5 @@
   * [Creating HTML & CSS Boilerlate](week1/boilerplate.md)
   * [Boilerplate Example](week1/boilerplate-code.md)
   * [Weekend Homework: Resume](week1/hw.md)
+  * [CSS Box Model](week2/README.md)
+    * [Nested Elements](week2/nested-elements.md)
