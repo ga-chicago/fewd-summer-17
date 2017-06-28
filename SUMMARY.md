@@ -8,3 +8,4 @@
   * [Weekend Homework: Resume](week1/hw.md)
   * [CSS Box Model](week2/README.md)
     * [Nested Elements](week2/nested-elements.md)
+    * [Psuedo Selectors](week2/psuedo-selectors.md)
