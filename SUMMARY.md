@@ -9,3 +9,5 @@
   * [CSS Box Model](week2/README.md)
     * [Nested Elements](week2/nested-elements.md)
     * [Psuedo Selectors](week2/psuedo-selectors.md)
+    * [Normalize.css](week2/normalize.md)
+    * [Tuesday Homework](week2/hw-tues.md)
